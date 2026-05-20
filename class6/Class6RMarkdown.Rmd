@@ -1,0 +1,15 @@
+---
+title: "Class 6: R Functions"
+author: "Mason Dinh (A19140455)"
+date: "2026-04-19"
+output: html_document
+---
+
+This week we are introducing **R functions** and how to write our own R functions. 
+
+Questions to answer:
+
+Q1. 
+
+
+
