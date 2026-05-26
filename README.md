@@ -20,7 +20,7 @@ Class 10: [Structural Bioinformatics (pt1)](Class10/Class10.md)
 
 Class 11: [Structural Bioinformatics (pt2. Focus on new AlphaFold2)](Class11/Class11.md)
 
-Class 12: [Genome informatics]
+Class 12: [Genome informatics](Class12/Class12.md)
 
 Class 13: [Transcriptomics and the analysis of RNA-Seq data](class13/Class13.md)
 
