@@ -1,7 +1,7 @@
 ---
 title: "Class 12: Genome Informatics"
 author: "Mason Dinh (PID: A19140455)"
-format: pdf
+format: gfm
 toc: true
 ---
 
