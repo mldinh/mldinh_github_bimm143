@@ -1,5 +1,12 @@
 ---
-title: "class04"
-format: html
+title: "Class 4"
+author: "Mason Dinh (PID: A19140455)"
+format: pdf
+date: "April 9th, 2026"
 ---
+
+```{r}
+x<- 1:50
+plot(x,sin(x),typ="l", col="purple",lwd=3)
+```
 
